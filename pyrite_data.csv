@@ -1,0 +1,11 @@
+Sample_ID,Depth_meters,Fe_percent,S_percent,Co_ppm,Ni_ppm,Formation_Type
+PY-001,150.5,46.5,53.2,120.5,85.2,Hydrothermal
+PY-002,152.0,46.3,53.1,145.2,90.1,Hydrothermal
+PY-003,155.5,45.9,53.4,310.4,45.6,Sedimentary
+PY-004,160.0,46.1,53.2,280.9,50.2,Sedimentary
+PY-005,162.5,46.6,53.3,115.0,88.5,Hydrothermal
+PY-006,165.0,46.4,53.5,130.2,82.4,Hydrothermal
+PY-007,170.2,45.8,53.1,340.1,40.1,Sedimentary
+PY-008,175.5,46.2,53.2,295.5,48.9,Sedimentary
+PY-009,180.0,46.5,53.4,140.8,86.7,Hydrothermal
+PY-010,182.5,46.0,53.3,325.6,42.3,Sedimentary
